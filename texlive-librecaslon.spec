@@ -1,12 +1,12 @@
-# revision 30985
+# revision 31929
 # category Package
 # catalog-ctan /fonts/librecaslon
-# catalog-date 2013-06-28 13:33:35 +0200
+# catalog-date 2013-10-17 14:29:03 +0200
 # catalog-license ofl
-# catalog-version 1.0
+# catalog-version undef
 Name:		texlive-librecaslon
 Version:	1.0
-Release:	1
+Release:	2
 Summary:	Libre Caslon fonts, with LaTeX support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/librecaslon
@@ -22,8 +22,8 @@ Requires(post):	texlive-kpathsea
 The Libre Caslon fonts are designed by Pablo Impallari.
 Although they have been designed for use as web fonts, they
 work well as conventional text fonts. A bold italic variant is
-not yet available. As a stopgap, an artificially slanted bold
-variant has been created and treated as intalic.
+not currently available. As a stopgap, an artificially slanted
+bold variant has been created and treated as italic.
 
 %post
     %{_sbindir}/texlive.post
