@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-librecaslon
 Version:	1.0
-Release:	9
+Release:	10
 Summary:	Libre Caslon fonts, with LaTeX support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/librecaslon
