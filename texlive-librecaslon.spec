@@ -5,7 +5,7 @@
 # catalog-license ofl
 # catalog-version undef
 Name:		texlive-librecaslon
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	Libre Caslon fonts, with LaTeX support
 Group:		Publishing
