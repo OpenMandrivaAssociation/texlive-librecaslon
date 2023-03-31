@@ -1,6 +1,6 @@
 Name:		texlive-librecaslon
 Version:	64432
-Release:	1
+Release:	2
 Summary:	Libre Caslon fonts, with LaTeX support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/librecaslon
