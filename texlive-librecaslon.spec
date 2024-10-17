@@ -3,7 +3,7 @@ Version:	64432
 Release:	2
 Summary:	Libre Caslon fonts, with LaTeX support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/fonts/librecaslon
+URL:		https://www.ctan.org/tex-archive/fonts/librecaslon
 License:	OFL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/librecaslon.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/librecaslon.doc.r%{version}.tar.xz
